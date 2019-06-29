@@ -12,7 +12,7 @@ Get your arduino leonardo and plug it at your pc
 Press the button on arduino leonardo in order to switch it in flash mode
 
 # STEP 4 
-Modify the "keyboard.ino" according to your needs by using the HEX_VALUES.md where you can find the hex values for your desired keys
+Modify the "keyboard.ino" according to your needs by using the "HEX_VALUES.md" where you can find the hex values for your desired keys
 
 # STEP 5
 In order to upload the programme at the arduino you have to go to "Tools -> Board" and select "Arduino Leonardo"
